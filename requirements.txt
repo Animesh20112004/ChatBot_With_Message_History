@@ -3,3 +3,4 @@ langchain_community
 ipykernel
 python-dotenv
 langchain_groq
+langchain_chroma
