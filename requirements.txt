@@ -4,3 +4,6 @@ ipykernel
 python-dotenv
 langchain_groq
 langchain_chroma
+bs4
+langchain_huggingface
+sentence-transformers
